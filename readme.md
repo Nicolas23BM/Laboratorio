@@ -1,6 +1,9 @@
 Sesion 1
 Ariana Carolina 
-26720 Generar conflicto
+<<<<<<< HEAD
+26720 conflicto solucionado
+=======
+26720 Aqui esta el conflicto
 sesiòn unica
 ----
 
