@@ -1,5 +1,5 @@
 Sesion 1
-NICOLAS BALTAZAR
+Fernando Lazaro
 <<<<<<< HEAD
 26720 conflicto solucionado
 =======
