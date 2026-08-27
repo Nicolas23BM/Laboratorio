@@ -1,5 +1,5 @@
 Sesion 1
-Ariana Carolina 
+NICOLAS BALTAZAR
 <<<<<<< HEAD
 26720 conflicto solucionado
 =======
